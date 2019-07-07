@@ -5,13 +5,20 @@
 </details>
 
 <div class="note success"><p>success</p></div>
+  
+  
+#20190114 - email defect hot fix
+
+>20190115 - Delegation Enhancement
+!20190116 - delegation management API
+
 |Folder|QA|UAT|PROD|Comment|
 |-|-|-|-|-|
 |...|...|...|...|...|
 |20190114 - email defect hot fix|Y|Y|Y|
->20190114 - email defect hot fix
->>20190115 - Delegation Enhancement
->>>20190116 - delegation management API
+20190114 - email defect hot fix
+20190115 - Delegation Enhancement
+20190116 - delegation management API
 |20190121 - people strategy in delegation|Y|Y|Y|included in prod realease on 20190129|
 |20190123 - Separate airfare booking date|Y|Y|Y|included in prod realease on 20190129|
 |20190128 - TPX Org Setting|Y|Y|Y|included in prod realease on 20190301|
