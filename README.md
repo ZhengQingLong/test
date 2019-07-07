@@ -1,6 +1,7 @@
-<?php
-    echo "Hello world!";
-?>
+<details>
+<summary>内容描述</summary>
+测试内容
+</details>
 
 |Folder|QA|UAT|PROD|Comment|
 |-|-|-|-|-|
