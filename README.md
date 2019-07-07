@@ -1,3 +1,7 @@
+<?php
+    echo "Hello world!";
+?>
+
 |Folder|QA|UAT|PROD|Comment|
 |-|-|-|-|-|
 |...|...|...|...|...|
