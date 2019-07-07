@@ -1,5 +1,3 @@
-<details>
-<summary>Archived</summary>
 |Folder|QA|UAT|PROD|Comment|
 |-|-|-|-|-|
 |...|...|...|...|...|
@@ -40,11 +38,6 @@
 |20190516 - Update history days and nights count|Y|Y|Y|included in prod realease on 20190524|
 |20190517 - Update view for BIA|Y|Y|Y|included in prod realease on 20190524|
 |20190523 - update url for cost info|Y|Y|Y|included in prod realease on 20190524|
-</details>
-<details open>
-<summary>Not Released to Production</summary>
-|Folder|QA|UAT|PROD|Comment|
-|-|-|-|-|-|
 |20190520 - Mass BIA Options|Y|Y|||
 |20190524 - Mass BIA enhance|Y|Y|||
 |20190527 - Budget module switch|Y|Y|||
@@ -57,4 +50,4 @@
 |20190614 - template issue|Y|Y|||
 |20190617 - Configurable TBD travel date|Y|Y|||
 |20190621 - Configure Additional Approver Optional|Y|Y|||
-</details>
+
