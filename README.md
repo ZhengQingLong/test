@@ -3,6 +3,10 @@
 ```测试内容
  测试内容1
   ```
+ <script>
+nodes = document.querySelectorAll('details');
+for (n in nodes) { nodes[n].open = true; }
+ </script>
 </details>
 
 >20190115 - Delegation Enhancement
