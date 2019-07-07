@@ -1,4 +1,4 @@
-<details>
+<details open>
 <summary>内容描述</summary>
 >测试内容
   >>测试内容1
