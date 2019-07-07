@@ -4,8 +4,6 @@
   >>测试内容1
 </details>
 
-<div class="note success"><p>success</p></div>
-
 >20190115 - Delegation Enhancement
 
 
