@@ -5,12 +5,9 @@
 </details>
 
 <div class="note success"><p>success</p></div>
-  
-  
-#20190114 - email defect hot fix
 
 >20190115 - Delegation Enhancement
-!20190116 - delegation management API
+
 
 |Folder|QA|UAT|PROD|Comment|
 |-|-|-|-|-|
