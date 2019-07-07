@@ -1,6 +1,35 @@
 <details>
 <summary>内容描述</summary>
-<pre><code>测试内容</code></pre>
+ <table style="width:100%">
+  <tr>
+    <th>Folder</th>
+    <th>QA</th>
+    <th>UAT</th>
+    <th>PROD</th>
+    <th>Comment</th>
+  </tr>
+  <tr>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>...</td>
+    <td>...</td>
+    <td>...</td>
+    <td>...</td>
+    <td>...</td>
+  </tr>
+    <tr>
+    <td>20190121 - people strategy in delegation</td>
+    <td>Y</td>
+    <td>Y</td>
+    <td>Y</td>
+    <td>included in prod realease on 20190129</td>
+  </tr>
+</table> 
 </details>
 
 >20190115 - Delegation Enhancement
